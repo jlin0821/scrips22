@@ -1,1 +1,0 @@
-echo Its been a busy week for me just wanted to check up| clip
