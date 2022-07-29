@@ -1,0 +1,1 @@
+clip < "C:\Users\jlin\Documents\I have some questions.txt"
